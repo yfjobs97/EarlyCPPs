@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476873180 source:c:\users\marco\desktop\cs homework\hw4\yf_26_a4_ex1.cpp
+	<iostream>
+	<string>
+
+1478315063 source:c:\users\marco\desktop\cs homework\lab7\lab7_exercise2.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<string>
+
