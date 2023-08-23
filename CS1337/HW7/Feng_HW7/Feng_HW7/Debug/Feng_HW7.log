@@ -1,0 +1,4 @@
+﻿  Feng_HW7.cpp
+c:\users\marco\desktop\cs homework\cs1337\hw7\feng_hw7\feng_hw7\feng_hw7.cpp(143): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Feng_HW7.vcxproj -> C:\Users\Marco\Desktop\CS Homework\CS1337\HW7\Feng_HW7\Debug\Feng_HW7.exe
+  Feng_HW7.vcxproj -> C:\Users\Marco\Desktop\CS Homework\CS1337\HW7\Feng_HW7\Debug\Feng_HW7.pdb (Partial PDB)
